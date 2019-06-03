@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d95d58fa-b475-4963-b932-0ab31fe01f86" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/faceswap.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/faceswap.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/research/object_detection/object_detection_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../models/research/object_detection/object_detection_tutorial.ipynb" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/face_swap$Wonderseen_HandPose_cnn_depth.coverage" NAME="Wonderseen_HandPose_cnn_depth Coverage Results" MODIFIED="1558862646580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Handpose-WonderSeen-Net/Wonderseen_Handpose_cnn_depth" />
+    <SUITE FILE_PATH="coverage/face_swap$Unittests_in_model_builder_test_py.coverage" NAME="Unittests in model_builder_test.py Coverage Results" MODIFIED="1559057019573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/models/research/object_detection/builders" />
+    <SUITE FILE_PATH="coverage/face_swap$optical_flow.coverage" NAME="optical_flow Coverage Results" MODIFIED="1558759878848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/face_swap$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1559034987608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/face_swap$OpenCV_input_video_parse.coverage" NAME="OpenCV_input_video_parse Coverage Results" MODIFIED="1558699920082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/face_swap$tensorflow_state_test.coverage" NAME="tensorflow_state_test Coverage Results" MODIFIED="1559044418870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow" />
+    <SUITE FILE_PATH="coverage/face_swap$Unittests_in_model_builder_test_py__1_.coverage" NAME="Unittests in model_builder_test.py (1) Coverage Results" MODIFIED="1559049868590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/models/research/object_detection/builders" />
+    <SUITE FILE_PATH="coverage/face_swap$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1558918948167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/face_swap$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1559032033144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="379">
+                <caret line="146" column="31" selection-start-line="146" selection-start-column="31" selection-end-line="146" selection-end-column="31" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tensorflow/xml_to_csv.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="511">
+              <caret line="42" column="6" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
+              <folding>
+                <element signature="e#88#97#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tensorflow/generate_TFrecord.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tensorflow/tensorflow_state_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+              <folding>
+                <element signature="e#70#79#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ReadData</find>
+      <find>general</find>
+      <find>PostTreatment</find>
+      <find>label_map_util</find>
+      <find>django.contrib.staticfiles</find>
+      <find>model_pb2</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/docopt_demo.py" />
+        <option value="$PROJECT_DIR$/face_swap.py" />
+        <option value="$PROJECT_DIR$/capture_face_landmarks.py" />
+        <option value="$PROJECT_DIR$/draw_landmarks.py" />
+        <option value="$PROJECT_DIR$/OpenCV_input_video_parse.py" />
+        <option value="$PROJECT_DIR$/Background_Subtraction.py" />
+        <option value="$PROJECT_DIR$/Background_Subtraction_Video.py" />
+        <option value="$PROJECT_DIR$/Computer_Vision_Face_Tracking.py" />
+        <option value="$PROJECT_DIR$/Auto_Object_Capture.py" />
+        <option value="$PROJECT_DIR$/optical_flow.py" />
+        <option value="$PROJECT_DIR$/Handpose-WonderSeen-Net/Wonderseen_Handpose_cnn_depth/Wonderseen_HandPose_cnn_depth.py" />
+        <option value="$PROJECT_DIR$/test1.py" />
+        <option value="$PROJECT_DIR$/../yj-alation-tools/yj_alation_tools/service_batch/tasks.py" />
+        <option value="$PROJECT_DIR$/../yj-alation-tools/manifest_kpi.yml" />
+        <option value="$PROJECT_DIR$/../yj-alation-tools/yj_alation_tools/yj_alation_tools/settings.py" />
+        <option value="$PROJECT_DIR$/../yj-alation-tools/yj_alation_tools/yj_alation_tools/urls.py" />
+        <option value="$PROJECT_DIR$/../yj-alation-tools/yj_alation_tools/login/urls.py" />
+        <option value="$PROJECT_DIR$/../yj-alation-tools/yj_alation_tools/yj_alation_tools/settings_dev.py" />
+        <option value="$PROJECT_DIR$/../yj-alation-tools/yj_alation_tools/yj_alation_tools/settings_kpi.py" />
+        <option value="$PROJECT_DIR$/../yj-alation-tools/yj_alation_tools/yj_alation_tools/settings_migration.py" />
+        <option value="$PROJECT_DIR$/../yj-alation-tools/yj_alation_tools/yj_alation_tools/settings_test.py" />
+        <option value="$PROJECT_DIR$/../yj-alation-tools/manifest_batch.yml" />
+        <option value="$PROJECT_DIR$/../yj-alation-tools_bk20190521/yj-alation-tools/yj_alation_tools/login/urls.py" />
+        <option value="$PROJECT_DIR$/../yj-alation-tools_bk20190521/yj-alation-tools/yj_alation_tools/manage.py" />
+        <option value="$PROJECT_DIR$/../yj-alation-tools_bk20190521/yj-alation-tools/yj_alation_tools/yj_alation_tools/wsgi.py" />
+        <option value="$PROJECT_DIR$/test3.py" />
+        <option value="$PROJECT_DIR$/tensorflow_state_test.py" />
+        <option value="$PROJECT_DIR$/test2.py" />
+        <option value="$PROJECT_DIR$/tensorflow/tensorflow_state_test.py" />
+        <option value="$PROJECT_DIR$/../models/research/object_detection/builders/model_builder_test.py" />
+        <option value="D:/models/research/object_detection/builders/model_builder_test.py" />
+        <option value="D:/models/research/object_detection/protos/anchor_generator_pb2.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/tensorflow/xml_to_csv.py" />
+        <option value="$PROJECT_DIR$/tensorflow/general_TFrecord.py" />
+        <option value="$PROJECT_DIR$/tensorflow/generate_TFrecord.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="58" />
+    <option name="y" value="103" />
+    <option name="width" value="1920" />
+    <option name="height" value="1097" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="face_swap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="faceswap" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="faceswap" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\github\face_swap\Handpose-WonderSeen-Net\Wonderseen_Handpose_cnn_depth" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\github\face_swap\Handpose-WonderSeen-Net\Wonderseen_Handpose_cnn_depth\utils" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.xml_to_csv">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="faceswap" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tensorflow_state_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="faceswap" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tensorflow" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tensorflow/tensorflow_state_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="xml_to_csv" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="faceswap" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tensorflow" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tensorflow/xml_to_csv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in D:/models/research/object_detection/builders/model_builder_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="models" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="D:/models/research/object_detection/builders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;D:/models/research/object_detection/builders/model_builder_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.xml_to_csv" />
+        <item itemvalue="Python.tensorflow_state_test" />
+        <item itemvalue="Python tests.Unittests in D:/models/research/object_detection/builders/model_builder_test.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d95d58fa-b475-4963-b932-0ab31fe01f86" name="Default Changelist" comment="" />
+      <created>1558255451022</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558255451022</updated>
+      <workItem from="1558255452170" duration="14042000" />
+      <workItem from="1558437384161" duration="2334000" />
+      <workItem from="1558530847700" duration="2371000" />
+      <workItem from="1558616691204" duration="5255000" />
+      <workItem from="1558699759335" duration="23653000" />
+      <workItem from="1558860579882" duration="7846000" />
+      <workItem from="1558873887561" duration="3536000" />
+      <workItem from="1558918081662" duration="10992000" />
+      <workItem from="1559029319132" duration="3539000" />
+      <workItem from="1559044328234" duration="998000" />
+      <workItem from="1559047093358" duration="2396000" />
+      <workItem from="1559049748288" duration="3784000" />
+      <workItem from="1559311890664" duration="6420000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_model_builder_test_py - 2019.05.28 at 21h 39m 07s.xml">
+      <configuration name="Unittests in model_builder_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_model_builder_test_py - 2019.05.28 at 21h 40m 56s.xml">
+      <configuration name="Unittests in model_builder_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_model_builder_test_py - 2019.05.28 at 22h 13m 08s.xml">
+      <configuration name="Unittests in model_builder_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_model_builder_test_py_(1) - 2019.05.28 at 22h 24m 33s.xml">
+      <configuration name="Unittests in model_builder_test.py (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_model_builder_test_py - 2019.05.28 at 23h 19m 33s.xml">
+      <configuration name="Unittests in model_builder_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_model_builder_test_py - 2019.05.29 at 00h 08m 24s.xml">
+      <configuration name="Unittests in model_builder_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_model_builder_test_py - 2019.05.29 at 00h 11m 10s.xml">
+      <configuration name="Unittests in model_builder_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_model_builder_test_py - 2019.05.29 at 00h 23m 42s.xml">
+      <configuration name="Unittests in model_builder_test.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="87166000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="58" y="103" width="1920" height="1097" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16666667" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3691275" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39933994" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32885906" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32885906" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.38389263" />
+      <window_info anchor="bottom" id="Python Console" order="12" visible="true" weight="0.30149254" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" x="0" y="0" width="386" height="801" id="Documentation" order="4" side_tool="true" weight="0.14909478" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="rects" language="Python" />
+        <watch expression="rects[n].area" language="Python" />
+        <watch expression="rects[0].bl_corner" language="Python" />
+        <watch expression="type(rects)" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/faceswap$docopt_demo.coverage" NAME="docopt_demo Coverage Results" MODIFIED="1558257859495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/face_swap$capture_face_landmarks.coverage" NAME="capture_face_landmarks Coverage Results" MODIFIED="1558438107632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/faceswap$draw_landmarks.coverage" NAME="draw_landmarks Coverage Results" MODIFIED="1558363089806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>type(rects)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>rects[0].bl_corner</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>rects[n].area</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>rects</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../yj-alation-tools/yj_alation_tools/login/migrations/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/../yj-alation-tools/yj_alation_tools/schedule/tests.py" />
+    <entry file="file://$PROJECT_DIR$/../yj-alation-tools/yj_alation_tools/schedule/models.py" />
+    <entry file="file://$PROJECT_DIR$/../yj-alation-tools/yj_alation_tools/schedule/apps.py" />
+    <entry file="file://$PROJECT_DIR$/../yj-alation-tools/yj_alation_tools/schedule/admin.py" />
+    <entry file="file://$PROJECT_DIR$/../yj-alation-tools/yj_alation_tools/login/apps.py" />
+    <entry file="file://$PROJECT_DIR$/../yj-alation-tools/yj_alation_tools/login/templates/login/base.html" />
+    <entry file="file://$PROJECT_DIR$/../bk/yj-alation-tools_bk20190521/yj-alation-tools/manifest_batch.yml" />
+    <entry file="file://$PROJECT_DIR$/../yj-alation-tools/yj_alation_tools/yj_alation_tools/wsgi.py" />
+    <entry file="file://$PROJECT_DIR$/../yj-alation-tools/yj_alation_tools/schedule/views.py" />
+    <entry file="file://$PROJECT_DIR$/../yj-alation-tools/yj_alation_tools/yj_alation_tools/settings_test.py" />
+    <entry file="file://$PROJECT_DIR$/../yj-alation-tools/yj_alation_tools/yj_alation_tools/settings_migration.py" />
+    <entry file="file://$PROJECT_DIR$/../yj-alation-tools/yj_alation_tools/yj_alation_tools/settings_kpi.py" />
+    <entry file="file://$PROJECT_DIR$/../yj-alation-tools/yj_alation_tools/yj_alation_tools/settings_dev.py" />
+    <entry file="file://$PROJECT_DIR$/../yj-alation-tools/yj_alation_tools/schedule/static/img/yj_logo.png" />
+    <entry file="file://$PROJECT_DIR$/../yj-alation-tools/yj_alation_tools/schedule/static/js/list.js" />
+    <entry file="file://$PROJECT_DIR$/../yj-alation-tools_bk20190521/yj-alation-tools/manifest_batch.yml" />
+    <entry file="file://$PROJECT_DIR$/../yj-alation-tools/yj_alation_tools/yj_alation_tools/urls.py" />
+    <entry file="file://$PROJECT_DIR$/../yj-alation-tools/manifest_batch.yml" />
+    <entry file="file://$PROJECT_DIR$/../yj-alation-tools/yj_alation_tools/yj_alation_tools/settings.py" />
+    <entry file="file://$PROJECT_DIR$/../yj-alation-tools/yj_alation_tools/schedule/templates/schedule/schedule_list.html" />
+    <entry file="file://$PROJECT_DIR$/../yj-alation-tools/yj_alation_tools/schedule/templates/schedule/base.html" />
+    <entry file="file://$PROJECT_DIR$/../yj-alation-tools/yj_alation_tools/schedule/urls.py" />
+    <entry file="file://$PROJECT_DIR$/../yj-alation-tools/package.json" />
+    <entry file="file://$PROJECT_DIR$/../yj-alation-tools/yj_alation_tools/login/templates/login/login.html" />
+    <entry file="file://$PROJECT_DIR$/../yj-alation-tools_bk20190521/yj-alation-tools/yj_alation_tools/login/urls.py" />
+    <entry file="file://$PROJECT_DIR$/../yj-alation-tools_bk20190521/yj-alation-tools/yj_alation_tools/manage.py" />
+    <entry file="file://$PROJECT_DIR$/../yj-alation-tools_bk20190521/yj-alation-tools/yj_alation_tools/yj_alation_tools/wsgi.py" />
+    <entry file="file://$PROJECT_DIR$/../yj-alation-tools/yj_alation_tools/login/urls.py" />
+    <entry file="file://$PROJECT_DIR$/tensorflow_state_test.py" />
+    <entry file="file://$PROJECT_DIR$/mnist.npz" />
+    <entry file="file://$PROJECT_DIR$/test2.py" />
+    <entry file="file://$PROJECT_DIR$/../models/research/object_detection/builders/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/../models/research/object_detection/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/../Anaconda3/Lib/site-packages/google/protobuf/text_format.py" />
+    <entry file="file://$PROJECT_DIR$/../models/research/object_detection/builders/dataset_builder.py" />
+    <entry file="file://$PROJECT_DIR$/../models/research/object_detection/meta_architectures/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/../models/research/object_detection/builders/model_builder.py" />
+    <entry file="file://$PROJECT_DIR$/../models/research/object_detection/builders/model_builder_test.py" />
+    <entry file="file://D:/models/research/object_detection/builders/model_builder.py" />
+    <entry file="file://D:/models/research/object_detection/protos/argmax_matcher_pb2.py" />
+    <entry file="file://D:/models/research/object_detection/protos/bipartite_matcher_pb2.py" />
+    <entry file="file://D:/models/research/object_detection/protos/argmax_matcher.proto" />
+    <entry file="file://D:/models/research/object_detection/protos/anchor_generator.proto" />
+    <entry file="file://D:/models/research/object_detection/builders/model_builder_test.py" />
+    <entry file="file://D:/models/research/object_detection/protos/anchor_generator_pb2.py" />
+    <entry file="file://$PROJECT_DIR$/tensorflow/tensorflow_state_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding>
+            <element signature="e#70#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="379">
+            <caret line="146" column="31" selection-start-line="146" selection-start-column="31" selection-end-line="146" selection-end-column="31" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow/xml_to_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="42" column="6" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
+          <folding>
+            <element signature="e#88#97#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow/generate_TFrecord.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
