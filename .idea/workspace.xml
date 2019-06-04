@@ -2,9 +2,290 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d95d58fa-b475-4963-b932-0ab31fe01f86" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/emacs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/bk/qiulongquan_new_bk20190602/checkpoint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/bk/qiulongquan_new_bk20190602/frozen_inference_graph.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/bk/qiulongquan_new_bk20190602/model.ckpt.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/bk/qiulongquan_new_bk20190602/model.ckpt.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/bk/qiulongquan_new_bk20190602/model.ckpt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/bk/qiulongquan_new_bk20190602/pipeline.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/bk/qiulongquan_new_bk20190602/saved_model/saved_model.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/bk/training_bk20190602/checkpoint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/bk/training_bk20190602/eval_0/events.out.tfevents.1559403504.qiulongquannoMac-mini.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/bk/training_bk20190602/events.out.tfevents.1559402884.qiulongquannoMac-mini.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/bk/training_bk20190602/export/Servo/1559429811/saved_model.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/bk/training_bk20190602/export/Servo/1559429811/variables/variables.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/bk/training_bk20190602/export/Servo/1559429811/variables/variables.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/bk/training_bk20190602/graph.pbtxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/bk/training_bk20190602/model.ckpt-45745.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/bk/training_bk20190602/model.ckpt-45745.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/bk/training_bk20190602/model.ckpt-45745.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/bk/training_bk20190602/model.ckpt-46855.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/bk/training_bk20190602/model.ckpt-46855.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/bk/training_bk20190602/model.ckpt-46855.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/bk/training_bk20190602/model.ckpt-47971.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/bk/training_bk20190602/model.ckpt-47971.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/bk/training_bk20190602/model.ckpt-47971.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/bk/training_bk20190602/model.ckpt-49087.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/bk/training_bk20190602/model.ckpt-49087.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/bk/training_bk20190602/model.ckpt-49087.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/bk/training_bk20190602/model.ckpt-50000.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/bk/training_bk20190602/model.ckpt-50000.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/bk/training_bk20190602/model.ckpt-50000.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/bk/training_bk20190602/ssd_mobilenet_v1_coco.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/data/qiulongquan.pbtxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/data/qiulongquan_eval.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/data/qiulongquan_eval.record" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/data/qiulongquan_train.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/data/qiulongquan_train.record" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/generate_TFrecord.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/10594930729784722523.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/12429619634249912390.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/18186580789725923219.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/5098553537060842124.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/8893390178270630775.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/9369105283469450626.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/IMG_20190309_161011.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/IMG_20190309_161038.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/IMG_20190310_112835.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/IMG_20190428_114218.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/IMG_20190428_114219.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/IMG_20190428_114222.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/IMG_20190428_114254.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/IMG_20190428_155317_BURST088.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/IMG_20190501_133124.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/IMG_20190501_133131.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/IMG_20190501_133133.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/IMG_20190502_162205.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/IMG_20190502_175927.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/IMG_20190502_175930.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/IMG_20190502_180306.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/IMG_20190502_180316.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/IMG_20190502_180327.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/IMG_20190502_180339.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/IMG_20190502_180340.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/IMG_20190502_180342.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/IMG_20190502_180436.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG10.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG101.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG102.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG103.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG104.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG105.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG106.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG108.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG11.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG12.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG128.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG129.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG13.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG130.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG14.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG140.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG141.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG144.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG146.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG147.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG148.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG15.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG16.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG17.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG18.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG19.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG20.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG21.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG22.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG23.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG24.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG25.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG26.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG27.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG28.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG29.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG30.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG31.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG32.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG33.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG34.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG35.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG51.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG52.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG7.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG8.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG85.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG86.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG89.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/WechatIMG9.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1556676578002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559433916417.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434086776.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434090450.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434093505.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434098612.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434101190.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434105225.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434109218.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434110974.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434115634.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434117523.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434120172.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434127709.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434129407.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434131692.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434133821.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434137776.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434140142.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434142181.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434144048.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434145946.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434147810.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434149400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434151668.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434153475.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434160619.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434164953.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434167206.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434172679.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434174794.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434176782.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434185310.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434187226.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434192406.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434194701.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434196661.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434198819.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434205414.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434207780.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434211569.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434215209.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434217905.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434224168.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434226948.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434229914.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434231421.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434248646.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434251496.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434260027.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434262717.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434265573.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434274063.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434275899.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434313207.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434328540.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434331257.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434337391.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434344486.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434347742.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434349933.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559434352598.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/images/mmexport1559461700997.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/my_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/object_detection_tutorial-Copy1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/protos/anchor_generator_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/protos/argmax_matcher_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/protos/bipartite_matcher_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/protos/box_coder_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/protos/box_predictor_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/protos/calibration_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/protos/eval_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/protos/faster_rcnn_box_coder_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/protos/faster_rcnn_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/protos/flexible_grid_anchor_generator_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/protos/graph_rewriter_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/protos/grid_anchor_generator_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/protos/hyperparams_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/protos/image_resizer_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/protos/input_reader_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/protos/keypoint_box_coder_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/protos/losses_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/protos/matcher_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/protos/mean_stddev_box_coder_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/protos/model_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/protos/multiscale_anchor_generator_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/protos/optimizer_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/protos/pipeline_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/protos/post_processing_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/protos/preprocessor_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/protos/region_similarity_calculator_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/protos/square_box_coder_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/protos/ssd_anchor_generator_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/protos/ssd_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/protos/string_int_label_map_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/protos/train_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/qiulongquan/checkpoint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/qiulongquan/frozen_inference_graph.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/qiulongquan/model.ckpt.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/qiulongquan/model.ckpt.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/qiulongquan/model.ckpt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/qiulongquan/pipeline.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/qiulongquan/saved_model/saved_model.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/ssd_mobilenet_v1_coco_2017_11_17.tar.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/ssd_mobilenet_v1_coco_2017_11_17/checkpoint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/ssd_mobilenet_v1_coco_2017_11_17/frozen_inference_graph.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/ssd_mobilenet_v1_coco_2017_11_17/model.ckpt.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/ssd_mobilenet_v1_coco_2017_11_17/model.ckpt.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/ssd_mobilenet_v1_coco_2017_11_17/model.ckpt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/ssd_mobilenet_v1_coco_2017_11_17/saved_model/saved_model.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/test_images/image3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/test_images/image4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/test_images/image5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/test_images/image6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/test_images/image7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/test_images/image8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/test_images/image9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/test_images_1/image1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/test_images_1/image2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/test_images_1/image3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/test_images_1/image4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/test_images_1/image5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/training/checkpoint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/training/eval_0/events.out.tfevents.1559467586.qiulongquannoMac-mini.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/training/eval_0/events.out.tfevents.1559477135.qiulongquannoMac-mini.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/training/events.out.tfevents.1559466962.qiulongquannoMac-mini.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/training/events.out.tfevents.1559476508.qiulongquannoMac-mini.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/training/export/Servo/1559545587/saved_model.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/training/export/Servo/1559545587/variables/variables.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/training/export/Servo/1559545587/variables/variables.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/training/graph.pbtxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/training/model.ckpt-29090.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/training/model.ckpt-29090.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/training/model.ckpt-29090.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/training/model.ckpt-29327.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/training/model.ckpt-29327.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/training/model.ckpt-29327.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/training/model.ckpt-29562.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/training/model.ckpt-29562.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/training/model.ckpt-29562.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/training/model.ckpt-29797.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/training/model.ckpt-29797.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/training/model.ckpt-29797.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/training/model.ckpt-30000.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/training/model.ckpt-30000.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/training/model.ckpt-30000.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/training/ssd_mobilenet_v1_coco.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/training/ssd_mobilenet_v1_coco_2017_11_17/checkpoint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/training/ssd_mobilenet_v1_coco_2017_11_17/frozen_inference_graph.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/training/ssd_mobilenet_v1_coco_2017_11_17/model.ckpt.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/training/ssd_mobilenet_v1_coco_2017_11_17/model.ckpt.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/training/ssd_mobilenet_v1_coco_2017_11_17/model.ckpt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/object_detection/training/ssd_mobilenet_v1_coco_2017_11_17/saved_model/saved_model.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/pycocotools/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/pycocotools/_mask.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/pycocotools/_mask.pyx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/pycocotools/coco.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/pycocotools/cocoeval.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../models/research/pycocotools/mask.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/faceswap.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/faceswap.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/research/object_detection/object_detection_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../models/research/object_detection/object_detection_tutorial.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/research/object_detection/test_images/image1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../models/research/object_detection/test_images/image1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/research/object_detection/test_images/image2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../models/research/object_detection/test_images/image2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../models/research/object_detection/test_images/image_info.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../models/research/object_detection/test_images_1/image_info.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,37 +306,26 @@
     <SUITE FILE_PATH="coverage/face_swap$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1559032033144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="118">
-                <caret line="27" column="26" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="26" />
+              <first_editor relative-caret-position="245">
+                <caret line="175" column="1" selection-start-line="175" selection-start-column="1" selection-end-line="175" selection-end-column="1" />
               </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://D:/models/research/object_detection/my_model.py">
+        <entry file="file://$PROJECT_DIR$/../models/research/object_detection/detection_Probability_show.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1836">
-              <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/video_face_swap/tensorflow/tensorflow_state_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+            <state relative-caret-position="-1143">
+              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
               <folding>
-                <element signature="e#70#79#0" expanded="true" />
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -83,7 +353,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../models" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -125,6 +395,7 @@
         <option value="$PROJECT_DIR$/tensorflow/general_TFrecord.py" />
         <option value="$PROJECT_DIR$/tensorflow/generate_TFrecord.py" />
         <option value="D:/models/research/object_detection/my_model.py" />
+        <option value="$PROJECT_DIR$/../models/research/object_detection/test1.py" />
       </list>
     </option>
   </component>
@@ -140,9 +411,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
+            <path>
+              <item name="face_swap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="face_swap" type="462c0819:PsiDirectoryNode" />
+            </path>
             <path>
               <item name="face_swap" type="b2602c69:ProjectViewProjectNode" />
               <item name="models" type="462c0819:PsiDirectoryNode" />
@@ -158,15 +434,10 @@
               <item name="research" type="462c0819:PsiDirectoryNode" />
               <item name="object_detection" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="face_swap" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -175,7 +446,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -205,7 +476,27 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.my_model">
+  <component name="RunManager" selected="Python.test1">
+    <configuration default="true" type="DjangoTestsConfigurationType">
+      <module name="faceswap" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="faceswap" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -228,29 +519,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="my_model" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="models" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="D:/models/research/object_detection" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:/models/research/object_detection/my_model.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="tensorflow_state_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="faceswap" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/video_face_swap/tensorflow" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -266,31 +541,92 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in D:/models/research/object_detection/builders/model_builder_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="models" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="D:/models/research/object_detection/builders" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../models/research/object_detection" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../models/research/object_detection/test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.FlaskServer">
+      <module name="faceswap" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="faceswap" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="faceswap" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="faceswap" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;D:/models/research/object_detection/builders/model_builder_test.py&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.my_model" />
       <item itemvalue="Python.tensorflow_state_test" />
-      <item itemvalue="Python tests.Unittests in D:/models/research/object_detection/builders/model_builder_test.py" />
+      <item itemvalue="Python.test1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.my_model" />
+        <item itemvalue="Python.test1" />
         <item itemvalue="Python.tensorflow_state_test" />
-        <item itemvalue="Python tests.Unittests in D:/models/research/object_detection/builders/model_builder_test.py" />
       </list>
     </recent_temporary>
   </component>
@@ -318,6 +654,7 @@
       <workItem from="1559049748288" duration="3784000" />
       <workItem from="1559311890664" duration="6420000" />
       <workItem from="1559567021925" duration="3885000" />
+      <workItem from="1559657478115" duration="1997000" />
     </task>
     <servers />
   </component>
@@ -348,7 +685,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91051000" />
+    <option name="totallyTimeSpent" value="93062000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -360,15 +697,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1920" height="1098" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19635628" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20021299" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4807396" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37375745" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39933994" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -378,12 +714,12 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.38389263" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.59597313" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32007954" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" x="0" y="0" width="386" height="801" id="Documentation" order="4" side_tool="true" weight="0.14909478" />
+      <window_info anchor="right" x="0" y="0" width="386" height="801" id="Documentation" order="4" side_tool="true" weight="0.12726304" />
       <window_info anchor="right" id="Database" order="5" />
     </layout>
   </component>
@@ -411,8 +747,11 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/faceswap$docopt_demo.coverage" NAME="docopt_demo Coverage Results" MODIFIED="1558257859495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/face_swap$my_model.coverage" NAME="my_model Coverage Results" MODIFIED="1559657008943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../models/research/object_detection" />
     <SUITE FILE_PATH="coverage/face_swap$capture_face_landmarks.coverage" NAME="capture_face_landmarks Coverage Results" MODIFIED="1558438107632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/faceswap$draw_landmarks.coverage" NAME="draw_landmarks Coverage Results" MODIFIED="1558363089806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/face_swap$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1559659799828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../models/research/object_detection" />
+    <SUITE FILE_PATH="coverage/face_swap$my_model_video.coverage" NAME="my_model_video Coverage Results" MODIFIED="1559657029426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../models/research/object_detection" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
@@ -439,10 +778,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../yj-alation-tools/yj_alation_tools/schedule/admin.py" />
-    <entry file="file://$PROJECT_DIR$/../yj-alation-tools/yj_alation_tools/login/apps.py" />
-    <entry file="file://$PROJECT_DIR$/../yj-alation-tools/yj_alation_tools/login/templates/login/base.html" />
-    <entry file="file://$PROJECT_DIR$/../bk/yj-alation-tools_bk20190521/yj-alation-tools/manifest_batch.yml" />
     <entry file="file://$PROJECT_DIR$/../yj-alation-tools/yj_alation_tools/yj_alation_tools/wsgi.py" />
     <entry file="file://$PROJECT_DIR$/../yj-alation-tools/yj_alation_tools/schedule/views.py" />
     <entry file="file://$PROJECT_DIR$/../yj-alation-tools/yj_alation_tools/yj_alation_tools/settings_test.py" />
@@ -483,43 +818,9 @@
     <entry file="file://D:/models/research/object_detection/protos/anchor_generator_pb2.py" />
     <entry file="file://$PROJECT_DIR$/tensorflow/xml_to_csv.py" />
     <entry file="file://$PROJECT_DIR$/tensorflow/generate_TFrecord.py" />
-    <entry file="file://$PROJECT_DIR$/tensorflow/tensorflow_state_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-          <folding>
-            <element signature="e#70#79#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/models/research/object_detection/model_main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-396">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/models/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow/tensorflow_state_test.py" />
+    <entry file="file://D:/models/research/object_detection/model_main.py" />
+    <entry file="file://D:/models/README.md" />
     <entry file="file://$PROJECT_DIR$/video_face_swap/tensorflow/tensorflow_state_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -530,22 +831,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="118">
-            <caret line="27" column="26" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="26" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
+    <entry file="file://D:/models/research/object_detection/my_model.py" />
+    <entry file="file://$PROJECT_DIR$/../models/research/object_detection/my_model_video.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="108" selection-start-line="108" selection-end-line="108" />
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/models/research/object_detection/my_model.py">
+    <entry file="file://$PROJECT_DIR$/../models/research/object_detection/my_model.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1836">
-          <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
+        <state relative-caret-position="-1924">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="763">
+          <caret line="55" column="79" lean-forward="true" selection-start-line="55" selection-start-column="79" selection-end-line="55" selection-end-column="79" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../models/research/object_detection/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="245">
+            <caret line="175" column="1" selection-start-line="175" selection-start-column="1" selection-end-line="175" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../models/research/object_detection/detection_Probability_show.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1143">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
