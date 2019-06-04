@@ -24,7 +24,7 @@ print(tf.__version__)
 if tf.__version__ < '1.12.0':
     raise ImportError('Please upgrade your tensorflow installation to v1.12.* or later!')
 
-os.chdir('/Users/qiulongquan/models/research/object_detection')
+os.chdir('/Users/t-lqiu/models/research/object_detection')
 
 # Env setup
 # This is needed to display the images.
@@ -103,7 +103,7 @@ TEST_IMAGE_PATHS = [os.path.join(PATH_TO_TEST_IMAGES_DIR, 'image{}.jpg'.format(i
 # Size, in inches, of the output images.
 IMAGE_SIZE = (30, 20)
 
-output_path = '/Users/qiulongquan/models/research/object_detection/output_folder'
+output_path = '/Users/t-lqiu/models/research/object_detection/output_folder'
 
 vidcap = cv2.VideoCapture(0)
 
