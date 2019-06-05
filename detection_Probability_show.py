@@ -1,12 +1,30 @@
+# -*- coding: utf-8 -*-
+"""
+这个程序可以检测图片中的物体是什么，然后显示出准确率同时把每个物体用框画出来。
+物体：person 概率：0.9429234
+物体：dining table 概率：0.83807313
+物体：cup 概率：0.657298
+
+"""
+
 import numpy as np
-from matplotlib import pyplot as plt
+
 import os
 import tensorflow as tf
 from PIL import Image
+
 from utils import label_map_util
 from utils import visualization_utils as vis_util
 
 import datetime
+
+# 知道是matplotlib默认使用的模式是agg，需要手动设置为TkAgg
+# 在导完所有的包以后 加 matplotlib.use('TkAgg')就行了 这样的话可以弹出来。
+# 重点 mpl.use('TkAgg')这句话要放在最下面，才可以。
+# https://blog.csdn.net/weixin_35389463/article/details/88175243
+import matplotlib as mpl
+import matplotlib.pyplot as plt
+mpl.use('TkAgg')
 
 # 关闭tensorflow警告
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
@@ -39,7 +57,7 @@ categories = label_map_util.convert_label_map_to_categories(label_map, max_num_c
 category_index = label_map_util.create_category_index(categories)
 
 
-def Detection(image_path="images/WechatIMG102.jpg"):
+def Detection(image_path="test_images/image4.jpg"):
     loading()
     with detection_graph.as_default():
         with tf.Session(graph=detection_graph) as sess:
@@ -91,6 +109,8 @@ def Detection(image_path="images/WechatIMG102.jpg"):
             plt.figure(figsize=IMAGE_SIZE)
             plt.imshow(image_np)
             plt.show()
+            # 现在有问题，结果图片保存的时候是空白的。
+            plt.savefig('test.jpg')
 
 
 # 运行
