@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d95d58fa-b475-4963-b932-0ab31fe01f86" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/emacs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../models/research/object_detection/bk/qiulongquan_new_bk20190602/checkpoint" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../models/research/object_detection/bk/qiulongquan_new_bk20190602/frozen_inference_graph.pb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../models/research/object_detection/bk/qiulongquan_new_bk20190602/model.ckpt.data-00000-of-00001" afterDir="false" />
@@ -278,10 +277,9 @@
       <change afterPath="$PROJECT_DIR$/../models/research/pycocotools/coco.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../models/research/pycocotools/cocoeval.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../models/research/pycocotools/mask.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/faceswap.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/faceswap.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Handpose-WonderSeen-Net_new/Wonderseen_Handpose_cnn_depth/general.py" beforeDir="false" afterPath="$PROJECT_DIR$/Handpose-WonderSeen-Net_new/Wonderseen_Handpose_cnn_depth/general.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/research/object_detection/object_detection_tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../models/research/object_detection/object_detection_tutorial.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/research/object_detection/test_images/image1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../models/research/object_detection/test_images/image1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../models/research/object_detection/test_images/image2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../models/research/object_detection/test_images/image2.jpg" afterDir="false" />
@@ -306,32 +304,7 @@
     <SUITE FILE_PATH="coverage/face_swap$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1559032033144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="245">
-                <caret line="175" column="1" selection-start-line="175" selection-start-column="1" selection-end-line="175" selection-end-column="1" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../models/research/object_detection/detection_Probability_show.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1143">
-              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -353,7 +326,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../models" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -396,6 +369,7 @@
         <option value="$PROJECT_DIR$/tensorflow/generate_TFrecord.py" />
         <option value="D:/models/research/object_detection/my_model.py" />
         <option value="$PROJECT_DIR$/../models/research/object_detection/test1.py" />
+        <option value="$PROJECT_DIR$/Handpose-WonderSeen-Net_new/Wonderseen_Handpose_cnn_depth/general.py" />
       </list>
     </option>
   </component>
@@ -418,6 +392,11 @@
             <path>
               <item name="face_swap" type="b2602c69:ProjectViewProjectNode" />
               <item name="face_swap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="face_swap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="face_swap" type="462c0819:PsiDirectoryNode" />
+              <item name="video_face_swap" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="face_swap" type="b2602c69:ProjectViewProjectNode" />
@@ -477,26 +456,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.test1">
-    <configuration default="true" type="DjangoTestsConfigurationType">
-      <module name="faceswap" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="TARGET" value="" />
-      <option name="SETTINGS_FILE" value="" />
-      <option name="CUSTOM_SETTINGS" value="false" />
-      <option name="USE_OPTIONS" value="false" />
-      <option name="OPTIONS" value="" />
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="faceswap" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -545,6 +504,9 @@
       <module name="models" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../models/research/object_detection" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -558,65 +520,6 @@
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="Python.FlaskServer">
-      <module name="faceswap" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="launchJavascriptDebuger" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <module name="faceswap" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <module name="faceswap" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
-      <module name="faceswap" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
@@ -655,6 +558,9 @@
       <workItem from="1559311890664" duration="6420000" />
       <workItem from="1559567021925" duration="3885000" />
       <workItem from="1559657478115" duration="1997000" />
+      <workItem from="1559660585321" duration="51000" />
+      <workItem from="1559734656707" duration="1563000" />
+      <workItem from="1559746674654" duration="739000" />
     </task>
     <servers />
   </component>
@@ -685,7 +591,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93062000" />
+    <option name="totallyTimeSpent" value="95415000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -699,7 +605,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1098" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20021299" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20660277" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -712,14 +618,14 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32885906" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" visible="true" weight="0.23260437" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.38389263" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32007954" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" x="0" y="0" width="386" height="801" id="Documentation" order="4" side_tool="true" weight="0.12726304" />
+      <window_info anchor="right" x="0" y="0" width="386" height="801" id="Documentation" order="4" side_tool="true" weight="0.15974441" />
       <window_info anchor="right" id="Database" order="5" />
     </layout>
   </component>
@@ -778,9 +684,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../yj-alation-tools/yj_alation_tools/yj_alation_tools/wsgi.py" />
-    <entry file="file://$PROJECT_DIR$/../yj-alation-tools/yj_alation_tools/schedule/views.py" />
-    <entry file="file://$PROJECT_DIR$/../yj-alation-tools/yj_alation_tools/yj_alation_tools/settings_test.py" />
     <entry file="file://$PROJECT_DIR$/../yj-alation-tools/yj_alation_tools/yj_alation_tools/settings_migration.py" />
     <entry file="file://$PROJECT_DIR$/../yj-alation-tools/yj_alation_tools/yj_alation_tools/settings_kpi.py" />
     <entry file="file://$PROJECT_DIR$/../yj-alation-tools/yj_alation_tools/yj_alation_tools/settings_dev.py" />
@@ -846,20 +749,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test1.py">
+    <entry file="file://$PROJECT_DIR$/test1.py" />
+    <entry file="file://$PROJECT_DIR$/../models/research/object_detection/test1.py" />
+    <entry file="file://$PROJECT_DIR$/../models/research/object_detection/detection_Probability_show.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="763">
-          <caret line="55" column="79" lean-forward="true" selection-start-line="55" selection-start-column="79" selection-end-line="55" selection-end-column="79" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../models/research/object_detection/test1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
+        <state relative-caret-position="-173">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
@@ -876,12 +771,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../models/research/object_detection/detection_Probability_show.py">
+    <entry file="file://$PROJECT_DIR$/Handpose-WonderSeen-Net_new/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Handpose-WonderSeen-Net_new/Wonderseen_Handpose_cnn_depth/general.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1143">
-          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        <state relative-caret-position="851">
+          <caret line="227" lean-forward="true" selection-start-line="227" selection-end-line="227" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#808#863#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Handpose-WonderSeen-Net_new/Wonderseen_Handpose_cnn_depth/Wonderseen_HandPose_cnn_depth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-139">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding>
+            <element signature="e#1824#1847#0" expanded="true" />
           </folding>
         </state>
       </provider>

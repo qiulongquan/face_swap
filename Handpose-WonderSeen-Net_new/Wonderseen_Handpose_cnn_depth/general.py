@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+   # -*- coding: utf-8 -*-
 #  ColorHandPose3DNetwork - Network for estimating 3D Hand Pose from a single RGB Image
 #  Copyright (C) 2017  Christian Zimmermann
 #  This program is free software: you can redistribute it and/or modify
