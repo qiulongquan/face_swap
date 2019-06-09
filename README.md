@@ -168,6 +168,20 @@ tensorflow进行人脸识别已经可以使用，准确率还是很高的，可�
 
 ------------------------------------------------------------------------------------
 
+训练完成先冻结模型，然后生成TF lift文件，轻量化文件可以在手机端使用。pb文件不能在手机端正常调用。
+【TF lite】从tensorflow模型训练到lite模型移植
+https://blog.csdn.net/lukaslong/article/details/86649453
+
+Tensorflow Lite之编译生成tflite文件
+https://blog.csdn.net/qq_16564093/article/details/78996563
+
+这个是查看pb文件内容的网站
+https://lutzroeder.github.io/netron/
+
+
+Tensorflow object detection API 搭建属于自己的物体识别模型——常见问题汇总
+https://blog.csdn.net/dy_guox/article/details/80139981
+
 
 # 下载模型的名字
 MODEL_NAME = 'ssd_mobilenet_v1_coco_2017_11_17'
