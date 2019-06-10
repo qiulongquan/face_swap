@@ -9,11 +9,11 @@ import numpy as np
 from object_detection.utils import label_map_util
 from object_detection.utils import visualization_utils as vis_util
 
-videofile = '/home/zyl/Documents/caffe/examples/MobileNet-SSD/videos/20180813140109903.avi'
+videofile = '/Users/qiulongquan/qlq.mp4'
 cap = cv2.VideoCapture(videofile)
 MODEL_NUM_CLASSES = 3
-MODEL_LABEL_MAP = '/home/zyl/data/dms_tf/label_map.pbtxt'
-MODEL_PB = '/home/zyl/data/dms_tf/model2/export_result/frozen_inference_graph.pb'
+MODEL_LABEL_MAP = '/Users/qiulongquan/face_swap/video_face_swap/data/qiulongquan.pbtxt'
+MODEL_PB = '/Users/qiulongquan/face_swap/video_face_swap/qiulongquan/frozen_inference_graph.pb'
 
 # read graph model
 with tf.gfile.GFile(MODEL_PB, 'rb') as fd:
@@ -45,9 +45,9 @@ with tf.Session(graph=detection_graph) as sess:
         vis_util.visualize_boxes_and_labels_on_image_array(frame, np.squeeze(boxes),
                                                            np.squeeze(classes).astype(np.int32), np.squeeze(scores),
                                                            category_index,
-                                                           use_normalized_coordinates=True, line_thickness=6)
+                                                           use_normalized_coordinates=True, line_thickness=3)
         t2 = time.time()
-        print('FPS:', 1 / (t2 - t1))
+        print('FPS:',1 / (t2 - t1))
         cv2.imshow('MobilenetTF', frame)
         if cv2.waitKey(1) & 0xff == 27:
             break
