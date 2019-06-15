@@ -112,10 +112,11 @@ http://workpiles.com/2015/04/opencv-detectmultiscale-minneighbors/
 分析 支持多人同时识别的代码 OpenCV_multi_people.py   ok
 实现能够支持手势gesture的实现方法
 实现读取视频文件，然后分析识别视频中的人物的脸部和眼睛
-实现追踪特征点，根据指定的物体，追踪物体移动，并在图像中标注出来
-如何识别特定的物体，或者是指定的物体
+实现追踪特征点，根据指定的物体，追踪物体移动，并在图像中标注出来   ok
+如何识别特定的物体，或者是指定的物体  特定人脸识别   ok
 实现换脸的特效，检测2张脸，然后互换眼睛，鼻子，嘴巴，眉毛等特征
-readme文档中没有实现的代码
+readme文档中没有实现的代码   ok
+了解使用GCP google cloud plateform 来实现快速训练
 
 
 Tensorflow object detection API 搭建属于自己的物体识别模型（1）——环境搭建与测试
