@@ -24,7 +24,7 @@ print(tf.__version__)
 if tf.__version__ < '1.12.0':
     raise ImportError('Please upgrade your tensorflow installation to v1.12.* or later!')
 
-os.chdir('/Users/t-lqiu/models/research/object_detection')
+os.chdir('/Users/qiulongquan/models/research/object_detection')
 
 # This is needed since the notebook is stored in the object_detection folder.
 sys.path.append("..")
@@ -89,11 +89,11 @@ def load_image_into_numpy_array(image):
 # Detection
 # If you want to test the code with your images, just add path to the images to the TEST_IMAGE_PATHS.
 PATH_TO_TEST_IMAGES_DIR = 'test_images'
-TEST_IMAGE_PATHS = [os.path.join(PATH_TO_TEST_IMAGES_DIR, 'image{}.jpg'.format(i)) for i in range(4, 6)]
+TEST_IMAGE_PATHS = [os.path.join(PATH_TO_TEST_IMAGES_DIR, 'image{}.jpg'.format(i)) for i in range(7, 9)]
 
 # Size, in inches, of the output images.
 IMAGE_SIZE = (50, 30)
-output_path = '/Users/t-lqiu/models/research/object_detection/output_folder'
+output_path = '/Users/qiulongquan/models/research/object_detection/output_folder'
 
 
 def run_inference_for_single_image(image, graph):
@@ -147,6 +147,8 @@ def run_inference_for_single_image(image, graph):
 count = 0
 
 for image_path in TEST_IMAGE_PATHS:
+    # 最后通过OpenCV保存，但是打开确用的是PIL，保存的图片显示偏蓝色。应该是这个问题。统一打开图片也使用OpenCV试一下。
+    # https: // blog.csdn.net / guduruyu / article / details / 41749107
   image = Image.open(image_path)
   # the array based representation of the image will be used later in order to prepare the
   # result image with boxes and labels on it.
@@ -166,6 +168,14 @@ for image_path in TEST_IMAGE_PATHS:
       use_normalized_coordinates=True,
       line_thickness=4)
   count += 1
+
+  # 打开一个新窗口，然后显示图片，并制定图片尺寸，也可以不指定。当按了ESC键后图片窗口关闭，继续下面的操作。
+  cv2.namedWindow('image', cv2.WINDOW_NORMAL)
+  cv2.imshow('image', cv2.resize(image_np, (800, 600)))
+  cv2.waitKey(0)
+  cv2.destroyAllWindows()
+
+
   cv2.imwrite(output_path+'/filename%03.f' % (count) + '.jpg', image_np)  # 001~連番で保存
   print('save done')
   plt.figure(figsize=IMAGE_SIZE)

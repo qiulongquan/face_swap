@@ -24,7 +24,7 @@ print(tf.__version__)
 if tf.__version__ < '1.12.0':
     raise ImportError('Please upgrade your tensorflow installation to v1.12.* or later!')
 
-os.chdir('/Users/t-lqiu/models/research/object_detection')
+os.chdir('/Users/qiulongquan/models/research/object_detection')
 
 # Env setup
 # This is needed to display the images.
@@ -137,9 +137,19 @@ with detection_graph.as_default():
                     np.squeeze(classes).astype(np.int32),
                     np.squeeze(scores),
                     category_index,
+                    # 这个是阀值，超过0.5以后才会显示框框，小于0.5的不显示。
+                    min_score_thresh=0.5,
+                    # 当True的时候不显示分数。
+                    skip_scores=False,
+                    # 当True的时候不显示标签。
+                    skip_labels=False,
+                    # 当True的时候不显示追踪id号。
+                    skip_track_ids=False,
                     use_normalized_coordinates=True,
-                    line_thickness=8)
+                    # 显示框框的粗细尺寸。
+                    line_thickness=4)
 
+                # 这个是设定摄像头显示画面的大小
                 cv2.imshow('object_detection', cv2.resize(image_np, (800, 600)))
 
                 c = cv2.waitKey(1)
